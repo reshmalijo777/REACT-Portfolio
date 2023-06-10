@@ -1,4 +1,4 @@
-import React from "React";
+import React from "react";
 
 function Footer(){
     return(
@@ -9,7 +9,7 @@ function Footer(){
             </div>
 
             <div className="footer-copy">
-            <p>&copy; {new Date().getFullYear()} - Reshma Paul</p>
+            <p>&copy; {new Date().getFullYear()} - Reshmapaul</p>
       </div>
     </footer>
   );
