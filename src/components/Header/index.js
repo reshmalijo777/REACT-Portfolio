@@ -1,4 +1,4 @@
-import React from 'React'
+import React from 'react'
 import Navbar from '../Navigation';
 // Import React Router Link component for internal hyperlinks
 import {Link} from 'react-router-dom';

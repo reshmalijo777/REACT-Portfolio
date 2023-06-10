@@ -49,7 +49,7 @@ function App() {
           <Footer />
         </div>
       </Router>
-    </ApolloProvider>
+  </div>
   );
 }
 
