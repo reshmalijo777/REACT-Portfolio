@@ -1,11 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
-import Home from './pages/home';
-import About from './pages/about';
-import Contact from './pages/contact';
+import Home from './components/pages/home';
+import About from './components/pages/about';
+import Contact from './components/pages/contact';
 // import Portfolio from './pages/Portfolio';
-import Resume from './pages/resume';
+import Resume from './components/pages/resume';
 import Header from './components/Header';
 import Footer from './components/Footer';
 

@@ -1,5 +1,5 @@
 import React from "react";
-import MyResume from "../assets/Resume.pdf"
+import MyResume from "../../assets/Resume.pdf"
 
 function Resume(){
     const frontEnds =["HTML", "CSS", "JavaScript","JQuery","REACT","Bootstrap"];
