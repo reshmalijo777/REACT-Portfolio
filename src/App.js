@@ -3,9 +3,9 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import Home from './pages/home';
 import About from './pages/about';
-import Contact from './pages/Contact';
-import Portfolio from './pages/Portfolio';
-import Resume from './pages/Resume';
+import Contact from './pages/contact';
+// import Portfolio from './pages/Portfolio';
+// import Resume from './pages/Resume';
 import Header from './components/Header';
 import Footer from './components/Footer';
 
@@ -31,18 +31,18 @@ function App() {
                 path="/about" 
                 element={<About />} 
               />
-              <Route
+              {/* <Route
                 path="/portfolio"
                 element={<Portfolio />}
-              />
+              /> */}
               <Route
                 path="/contact"
                 element={<Contact />}
               />
-              <Route
+              {/* <Route
               path="/resume"
-              element={<Resume />}
-              />"
+              element={<Resume />}WW4aQz
+              />" */}
 
             </Routes>
           </div>
