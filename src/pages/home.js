@@ -11,7 +11,7 @@ function Home(){
                 <p>I am a web developer from Nashville,Tennessee</p>
                 <p> Click the link below to know more about me!</p>
                 <Link to = "/about">
-                    <button type='button' className='btn custom-btn'>Learn More...</button>
+                    <button type='button' className='btn custom-btn'>More About Me...</button>
                 </Link>
             </div>
           </div> 

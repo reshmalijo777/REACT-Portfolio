@@ -1,11 +1,13 @@
 import React from "react";
+import ProfilePic from "../assets/IMG_20230124_092330_088 (1).jpg"
+import "../style/about.css"
 
 
 function About(){
     return(
         <div className="card mb-3">
-            <img src="..." className="card-profile-pic" alt="Profile Picture"/>
             <div className="card-body">
+            <input type="image" img src={ProfilePic} className="profile-pic mx-4 mt-4" alt="Profile-Picture"/>
             <h5 className="card-title">About Me</h5>
             <p className="card-text">
               I am an ambitious, detail-oriented full-stack web developer. A recent graduate of the full-stack web development bootcamp at GeorgiaTech
