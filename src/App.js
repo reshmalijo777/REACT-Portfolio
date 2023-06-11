@@ -5,7 +5,7 @@ import Home from './pages/home';
 import About from './pages/about';
 import Contact from './pages/contact';
 // import Portfolio from './pages/Portfolio';
-// import Resume from './pages/Resume';
+import Resume from './pages/resume';
 import Header from './components/Header';
 import Footer from './components/Footer';
 
@@ -39,10 +39,10 @@ function App() {
                 path="/contact"
                 element={<Contact />}
               />
-              {/* <Route
+              <Route
               path="/resume"
-              element={<Resume />}WW4aQz
-              />" */}
+              element={<Resume />}
+              />"
 
             </Routes>
           </div>
