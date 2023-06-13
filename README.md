@@ -7,6 +7,7 @@ To create a portfolio using the new React skills, which will help set you apart 
 
 Deployed Website: https://reshmalijo777.github.io/
 
+
 ## User Story
 
 ```md
@@ -56,6 +57,12 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 <img width="960" alt="Screenshot 2023-06-13 015340" src="https://github.com/reshmalijo777/REACT-Portfolio/assets/128992593/4936f889-e75b-45c1-a7c0-06385d3e9760">
 
 <img width="967" alt="Screenshot 2023-06-13 015616" src="https://github.com/reshmalijo777/REACT-Portfolio/assets/128992593/9da5b4df-638a-43e7-9832-232a5bfb3b63">
+
+## Questions
+
+If you have any Questions,<br>
+Contact me at: -[Email](snowley777@gmail.com)<br>
+My GitHub Repository: -[GitHub](https://github.com/reshmalijo777/REACT-Portfolio)
 
 
               
