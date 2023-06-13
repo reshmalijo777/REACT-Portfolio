@@ -13,6 +13,8 @@ const ContactForm = () => {
     }
     console.log(conFom)
   }
+  
+
   return (
     <div className="container mt-5">
       <h2 className="mb-3">Contact Me</h2>
