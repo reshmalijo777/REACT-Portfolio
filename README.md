@@ -59,7 +59,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 <img width="967" alt="Screenshot 2023-06-13 015616" src="https://github.com/reshmalijo777/REACT-Portfolio/assets/128992593/9da5b4df-638a-43e7-9832-232a5bfb3b63">
 
 
-Reference : [Link] (https://www.freecodecamp.org/news/build-portfolio-website-react/)
+Reference : -[Link](https://www.freecodecamp.org/news/build-portfolio-website-react/)
 
 ## Questions
 
